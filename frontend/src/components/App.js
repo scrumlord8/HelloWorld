@@ -3,8 +3,8 @@ import React from 'react';
 const App = () => {
     return (
         <div>
-            <h1>Welcome to My Mixed Project</h1>
-            <p>This is the main application component.</p>
+            <h1>Hello World! GitHub co-pilot is my friend.</h1>
+            <p>Blah blah blah, something something.</p>
         </div>
     );
 };
